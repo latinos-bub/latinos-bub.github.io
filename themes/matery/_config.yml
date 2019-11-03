@@ -1,5 +1,7 @@
 # main menu navigation url and icon
 # 配置菜单导航的名称、路径和图标icon.
+# ####注意 主题下的该配置文件所引用的 图片、视频等资源我们一律放在该主题下，不要将这些内容放在 source 博客目录下
+# ####博客内容需要的图片、视频等资源我们才将它们放在 source 目录下
 menu:
   Index:
     url: /
@@ -47,7 +49,7 @@ music:
   showTitle: false
   title: 听听音乐
   fixed: false # 开启吸底模式
-  autoplay: true # 是否自动播放
+  autoplay: false # 是否自动播放
   theme: '#542674'
   loop: 'all' # 音频循环播放, 可选值: 'all', 'one', 'none'
   order: 'list' # 音频循环顺序, 可选值: 'list', 'random'
@@ -59,14 +61,14 @@ music:
 # Whether to display the videos.
 # 是否在首页显示视频.
 video:
-  enable: false
+  enable: true	 
   showTitle: true
-  title: 邓紫棋 - 差不多姑娘
-  url: /medias/video/chabuduoguniang.mp4 # 必填
+  title: 2018-06-22艺考生第一集
+  url: /medias/videos/1.mp4 # 必填
   pic:
   thumbnails:
   height: # 如：400
-  autoplay: true # 是否自动播放
+  autoplay: false # 是否自动播放
   theme: '#42b983'
   loop: true # 是否循环播放
   preload: 'auto' # 预加载，可选值: 'none', 'metadata', 'auto'
@@ -96,10 +98,10 @@ indexbtn:
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
   qq: 2653020258
-  github: https://github.com/latinos-bub
-  weibo: latinos-bub
+  github: latinos-bub
+  weibo: 6353666876/profile?topnav=1&wvr=6
   email: util.you.com@gmail.com
-  zhihu: latinos-bub
+  zhihu: shiro.liang.yi/activities
 
 # Whether to activate the Post TOC, and Configure which title types are supported by TOC support.
 # You can add `toc: false` to the Front-matter of a post to turn off the TOC.
@@ -174,21 +176,21 @@ profile:
 myProjects:
   enable: true
   data:
-    hexo-matery-modified:
-      icon: fa-meetup
-      iconBackground: 'linear-gradient(to bottom right, #66BB6A 0%, #81C784 100%)'
-      url: https://github.com/latinos-bub/hexo-matery-modified
-      desc: 我的个性化配置过的博客源码，即下即用。
-    ConParser:
-        icon: fa-database
-        iconBackground: 'linear-gradient(to bottom right, #F06292 0%, #EF5350 100%)'
-        url: https://github.com/latinos-bub/ConParser
-        desc: 基于dynet的成分句法分析模型整合。
-    ECNU-BeamerTemplate:
-        icon: fa-file-text-o
+    blog-vuepress:
+      icon: fa-gift
+      iconBackground: 'linear-gradient(to bottom right, #F06292 0%, #EF5350 100%)'
+      url: https://github.com/latinos-bub/blog-vuepress
+      desc: 我的vuepress blog。
+    go-tutorial:
+        icon: fa-gift
         iconBackground: 'linear-gradient(to bottom right, #29B6F6 0%, #1E88E5 100%)'
-        url: https://github.com/latinos-bub/ECNU_BeamerTemplate
-        desc: 基于Latex Beamer的安徽信息工程学院PPT模板。
+        url: https://github.com/latinos-bub/go-tutorial
+        desc: go/golang 的学习教程。
+    vue-element-admin:
+        icon: fa-gift
+        iconBackground: 'linear-gradient(to bottom right, #66BB6A 0%, #81C784 100%)'
+        url: https://github.com/latinos-bub/vue-element-admin
+        desc: vue-element-admin 是一个后台前端解决方案，它基于 vue 和 element-ui实现。
 
 # config my skills informations in about page.
 # If you don't want to display this `My Skills` content, you can deactivate or delete this configuration.
@@ -198,28 +200,19 @@ mySkills:
   data:
     Algorithm:
       background: 'linear-gradient(to right, #FF0066 0%, #FF00CC 100%)'
-      percent: 90%
-    C++:
-      background: 'linear-gradient(to right, #9900FF 0%, #CC66FF 100%)'
-      percent: 80%
+      percent: 5%
     Python:
       background: 'linear-gradient(to right, #2196F3 0%, #42A5F5 100%)'
-      percent: 80%
-    Pytorch:
-      background: 'linear-gradient(to right, #951213 0%, #961117 100%)'
-      percent: 75%
-    Dynet:
-      background: 'linear-gradient(to right, #F12F12 0%, #F6464F 100%)'
-      percent: 75%
+      percent: 30%
     Java:
       background: 'linear-gradient(to right, #00BCD4 0%, #80DEEA 100%)'
-      percent: 50%
+      percent: 70%
     SQL:
       background: 'linear-gradient(to right, #4CAF50 0%, #81C784 100%)'
       percent: 50%
     HTML:
       background: 'linear-gradient(to right, #FFEB3B 0%, #FFF176 100%)'
-      percent: 45%
+      percent: 60%
 
 # config gallery of my photos in about page.
 # If you don't want to display this `Gallery` content, you can deactivate or delete this configuration.

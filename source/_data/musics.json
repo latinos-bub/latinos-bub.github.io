@@ -1,23 +1,23 @@
 [
 	{
-		"name": "夜曲",
-		"artist": "周杰伦",
-		"url": "/medias/music/yequ.mp3",
+		"name": "Take me hand",
+		"artist": "take me",
+		"url": "/medias/music/Take-me-hand.mp3",
 		"cover": "/medias/music/avatars/yequ.jpg"
 	},{
-		"name": "一路向北",
-		"artist": "周杰伦",
-		"url": "/medias/music/yiluxiangbei.mp3",
+		"name": "曾经最美",
+		"artist": "金梅",
+		"url": "/medias/music/金梅-曾经最美.mp3",
 		"cover": "/medias/music/avatars/yiluxiangbei.jpg"
 	},{
-		"name": "来自天堂的魔鬼",
-		"artist": "邓紫棋",
-		"url": "/medias/music/tiantangdemogui.mp3",
+		"name": "相思",
+		"artist": "毛阿敏",
+		"url": "/medias/music/毛阿敏-相思.mp3",
 		"cover": "/medias/music/avatars/tiantangdemogui.jpg"
 	},{
-		"name": "倒数",
-		"artist": "邓紫棋",
-		"url": "/medias/music/daoshu.mp3",
+		"name": "夜空中最亮的星",
+		"artist": "小果酱",
+		"url": "/medias/music/小果酱-夜空中最亮的星.mp3",
 		"cover": "/medias/music/avatars/daoshu.jpg"
 	}
 ]

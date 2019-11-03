@@ -1,231 +1,63 @@
 [
     {
-        "name": "自然语言处理与深度学习",
-        "url": "https://zhuanlan.zhihu.com/godweiyang",
+        "name": "github每日趋势榜",
+        "url": "https://github.com/trending",
         "title": "访问主页",
-        "introduction": "我的知乎专栏，欢迎大家关注",
+        "introduction": "github每日开源项目热门榜",
         "avatar": "/medias/avatars/myzhihu.png"
     },{
-        "name": "AntNLP",
-        "url": "https://antnlp.org",
+        "name": "VuePress博客",
+        "url": "https://v1.vuepress.vuejs.org/zh/guide/",
         "title": "访问主页",
-        "introduction": "华东师范大学自然语言处理实验室欢迎您的加入！",
+        "introduction": "VuePress 由两部分组成：第一部分是一个极简静态网站生成器，它包含由 Vue 驱动的主题系统和插件 API，另一个部分是为书写技术文档而优化的默认主题，它的诞生初衷是为了支持 Vue 及其子项目的文档需求",
         "avatar": "/medias/avatars/antnlp.ico"
     },{
-        "name": "IDS²",
-        "url": "https://www.smart-dependable-sino-europe.institute",
+        "name": "老D博客",
+        "url": "https://laod.cn/",
         "title": "访问主页",
-        "introduction": "中欧可靠智能软件联合实验室欢迎您的加入！",
+        "introduction": "老D博客，获取最新资讯哦",
         "avatar": "/medias/avatars/ids2.jpg"
     },{
-        "name": "孙长志",
-        "url": "https://www.czsun.site",
+        "name": "拉丁小毛",
+        "url": "https://latinos-bub.github.io/blog-vuepress/",
         "title": "访问主页",
-        "introduction": "AntNLP博士大师兄！",
+        "introduction": "blog-vuepress",
         "avatar": "/medias/avatars/sunchangzhi.jpg"
     },{
-        "name": "纪焘",
-        "url": "https://taoji.site",
+        "name": "青山不二",
+        "url": "https://qingshanshuo.com/",
         "title": "访问主页",
-        "introduction": "AntNLP博士带明星！",
+        "introduction": "Ins, Twitter, Youtube, P站最新使用攻略",
         "avatar": "/medias/avatars/jitao.jpg"
     },{
-        "name": "杜雨沛",
-        "url": "https://yupei-du.github.io/",
+        "name": "小文博客",
+        "url": "https://www.qcgzxw.cn/",
         "title": "访问主页",
-        "introduction": "AntNLP唱跳RAP打篮球全能师兄！",
+        "introduction": "https://www.qcgzxw.cn/",
         "avatar": "/medias/avatars/duyupei.jpg"
     },{
-        "name": "0xbirdpwn",
-        "url": "https://0xbird.top/",
+        "name": "谷歌镜像",
+        "url": "http://ac.scmor.com/",
         "title": "访问主页",
-        "introduction": "十步杀一人，千里不留行，事了拂衣去，深藏功与名。",
+        "introduction": "欢迎推荐稳定、用户体验好的谷歌学术镜像！(本站不提供任何付费服务，谢绝此类咨询)",
         "avatar": "/medias/avatars/0xbird.png"
     },{
-        "name": "齐强的博客",
-        "url": "https://chrisqiqiang.com/",
+        "name": "百年孤独",
+        "url": "http://www.dushu369.com/waiguomingzhu/bngd/",
         "title": "访问主页",
-        "introduction": "燥动灵魂，无处安放；放浪形骸,随处可栖。",
+        "introduction": "《百年孤独》是哥伦比亚作家加西亚·马尔克斯的代表作，也是拉丁美洲魔幻现实主义文学的代表作，被誉为“再现拉丁美洲历史社会图景的鸿篇巨著”。《百年孤独》描写了布恩迪亚家族七代人的传奇故事，以及加勒比海沿岸小镇马孔多的百年兴衰，反映了拉丁美洲一个世纪以来风云变幻的历史。《百年孤独》融入神话传说、民间故事、宗教典故等神秘因素，巧妙地糅合了现实与虚幻，展现出一个瑰丽的想象世界，成为20世纪最重要的经典文学巨著之一",
         "avatar": "/medias/avatars/qiqiang.jpg"
     },{
-        "name": "李佳倩的博客",
-        "url": "http://jiaqianlee.com/",
+        "name": "东野奎吾系列小说",
+        "url": "https://www.yooread.net/3/3314/147697.html",
         "title": "访问主页",
-        "introduction": "一只小白的成长之路！",
+        "introduction": "放学后",
         "avatar": "/medias/avatars/lijiaqian.png"
     },{
-        "name": "kewlgrl",
-        "url": "https://blog.csdn.net/MIKASA3",
+        "name": "红楼梦",
+        "url": "http://www.popbook.com/mz/red/",
         "title": "访问主页",
-        "introduction": "好大一只咸鱼哇",
+        "introduction": "《红楼梦》又名：《石头记》, 长篇小说。一百二十回。前八十回为清曹雪芹作，后四十回多人为由高鹗续成。说中以贾、史、王、薛四大家族为背景，以贾宝玉、林黛玉爱情悲剧为主要线索，着重描写贾家荣、宁二府由盛到衰的过程。全面地描写封建社会末世的人性世态，种种不调和的矛盾...",
         "avatar": "/medias/avatars/kewlgrl.jpg"
-    },{
-        "name": "孙哥我还是看不透生死",
-        "url": "https://www.navazil.com/",
-        "title": "访问主页",
-        "introduction": "华东师范大学计算机系",
-        "avatar": "/medias/avatars/zhaokangzhe.jpg"
-    },{
-        "name": "Think Far Blog",
-        "url": "https://wuli749826.github.io",
-        "title": "访问主页",
-        "introduction": "我曾经拥有这一切，转眼都飘散如烟。",
-        "avatar": "/medias/avatars/gsy.jpg"
-    },{
-        "name": "望城风景",
-        "url": "https://www.itaowei.cn/",
-        "title": "访问主页",
-        "introduction": "用力活过的日子，才配得上此刻的缅怀。",
-        "avatar": "/medias/avatars/taowei.jpg"
-    },{
-        "name": "jxtxzzw空间",
-        "url": "https://www.jxtxzzw.com/wordpress",
-        "title": "访问主页",
-        "introduction": "华东师范大学计算机系",
-        "avatar": "/medias/avatars/zzw.jpg"
-    },{
-        "name": "DREAMWINGS",
-        "url": "https://www.dreamwings.cn/",
-        "title": "访问主页",
-        "introduction": "夢はそこでないと、私の権利である",
-        "avatar": "/medias/avatars/qianqian.png"
-    },{
-        "name": "ElaineLv",
-        "url": "https://www.elainelv.top/",
-        "title": "访问主页",
-        "introduction": "Stay hungry, Stay foolish",
-        "avatar": "/medias/avatars/lyn-draw.jpg"
-    },{
-        "name": "Subject_No_i",
-        "url": "https://subjectnoi.github.io",
-        "title": "访问主页",
-        "introduction": "在原七海 中野三玖 中野二乃 樱岛麻衣的老公",
-        "avatar": "/medias/avatars/lzh.png"
-    },{
-        "name": "菁菁",
-        "url": "https://angericky.github.io/",
-        "title": "访问主页",
-        "introduction": "做什么都是因为喜欢",
-        "avatar": "/medias/avatars/jingjing.jpg"
-    },{
-        "name": "婷宝的博客",
-        "url": "https://milyyy.github.io/",
-        "title": "访问主页",
-        "introduction": "希望有一个陪我到老的人，还有很多啦（略略略）~ 不过终极梦想嘛，就是做一个快乐的包租婆啦！ 哈哈哈(●'◡'●)",
-        "avatar": "/medias/avatars/milyyy.jpg"
-    },{
-        "name": "隐函数_北极鹅",
-        "url": "https://www.zhihu.com/people/bei-ji-e-13",
-        "title": "访问主页",
-        "introduction": "玩CV的音乐人，搞rock的程序员",
-        "avatar": "/medias/avatars/ldy.jpg"
-    },{
-        "name": "Sweet-Q",
-        "url": "https://sweet-q.github.io",
-        "title": "访问主页",
-        "introduction": "华东师范大学数学系",
-        "avatar": "/medias/avatars/babyq.png"
-    },{
-        "name": "伟大的蚊子",
-        "url": "https://blog.csdn.net/cww97",
-        "title": "访问主页",
-        "introduction": "鼓楼的夜晚时间匆匆",
-        "avatar": "/medias/avatars/cww97.jpg"
-    },{
-        "name": "Fun4wut",
-        "url": "https://blog.fun4go.top",
-        "title": "访问主页",
-        "introduction": "菜鸡欢迎大佬的光顾",
-        "avatar": "/medias/avatars/fun4go.png"
-    },{
-        "name": "Hael Chan",
-        "url": "https://haelchan.me/",
-        "title": "访问主页",
-        "introduction": "浙江大学 & NLP & ML",
-        "avatar": "/medias/avatars/hael.jpg"
-    },{
-        "name": "happygirlzt",
-        "url": "https://www.happygirlzt.com",
-        "title": "访问主页",
-        "introduction": "A Backend Engineer",
-        "avatar": "/medias/avatars/zhangting.jpg"
-    },{
-        "name": "星空无限",
-        "url": "https://liyangzone.com",
-        "title": "访问主页",
-        "introduction": "前端开发，死飞大佬。分享技术，分享生活。",
-        "avatar": "/medias/avatars/liyangzone.jpg"
-    },{
-        "name": "Mashiro",
-        "url": "https://2heng.xin/",
-        "title": "访问主页",
-        "introduction": "樱花庄的白猫",
-        "avatar": "/medias/avatars/mashiro.jpg"
-    },{
-        "name": "hzwer",
-        "url": "http://hzwer.com/",
-        "title": "访问主页",
-        "introduction": "北京大学计算机系",
-        "avatar": "/medias/avatars/hzwer.jpg"
-    },{
-        "name": "MPY634",
-        "url": "https://mpy634.cn/",
-        "title": "访问主页",
-        "introduction": "摸鱼，永无止境。",
-        "avatar": "/medias/avatars/mpy634.png"
-    },{
-        "name": "徐铭辰的博客",
-        "url": "https://michaelxucs.com",
-        "title": "访问主页",
-        "introduction": "埃克塞特大学计算机系",
-        "avatar": "/medias/avatars/michael.jpg"
-    },{
-        "name": "Mizunashi",
-        "url": "https://mizunashi.me",
-        "title": "访问主页",
-        "introduction": "欢迎大佬们来玩",
-        "avatar": "/medias/avatars/mizunashi.png"
-    },{
-        "name": "xuzhongyou",
-        "url": "https://xuzhongyou.github.io/",
-        "title": "访问主页",
-        "introduction": "我哽咽道：你是赵默笙，可我不是何以琛啊。",
-        "avatar": "/medias/avatars/xuzhongyou.jpg"
-    },{
-        "name": "Yucheng Li",
-        "url": "https://liyucheng.info/",
-        "title": "访问主页",
-        "introduction": "目前关注知识图谱与关系抽取领域",
-        "avatar": "/medias/avatars/liyucheng.jpg"
-    },{
-        "name": "zerol",
-        "url": "https://zerol.me/",
-        "title": "访问主页",
-        "introduction": "华东师范大学计算机系",
-        "avatar": "/medias/avatars/huaji.jpg"
-    },{
-        "name": "Zhang Yi",
-        "url": "http://codewithzhangyi.com/",
-        "title": "访问主页",
-        "introduction": "Coding is the New Sexy",
-        "avatar": "/medias/avatars/zhangyi.jpg"
-    },{
-        "name": "科学空间",
-        "url": "https://spaces.ac.cn/",
-        "title": "访问主页",
-        "introduction": "中山大学基础数学研究生",
-        "avatar": "/medias/avatars/spacesac.png"
-    },{
-        "name": "神圣超级无敌宇宙大王",
-        "url": "http://sscjwdyzdw.club",
-        "title": "访问主页",
-        "introduction": "华东师范大学计算机系",
-        "avatar": "/medias/avatars/qiandongwei.jpg"
-    },{
-        "name": "咸鱼的自我修养",
-        "url": "https://chrisju.cn/",
-        "title": "访问主页",
-        "introduction": "Failing means foolish.",
-        "avatar": "/medias/avatars/mouse.jpg"
     }
 ]

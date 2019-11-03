@@ -141,6 +141,6 @@ live2d:
 
 baidu_url_submit:
   count: 100
-  host: latinos-bub.com
+  host: latinos-bub.github.io
   token: 
   path: baidu_urls.txt
