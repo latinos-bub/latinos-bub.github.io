@@ -13,3 +13,18 @@
 直接克隆我的项目：`git clone git@github.com:latinos-bub/latinos-bub.github.io.git`，源码目录在 `dev` 分支下，博客部署内容在 `master` 分支
 
 克隆下来后，先切换到 `dev ` 分支，然后自定义修改即可
+
+发表博客：
+
+```bash
+# 写好博客后，发表博客直接用：
+./deploy.sh
+```
+
+维护项目源码：
+
+```bash
+# 保存源码到github仓库的dev分支
+./dev.sh
+```
+
