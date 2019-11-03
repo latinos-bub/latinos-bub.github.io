@@ -234,10 +234,10 @@ postCalendar: true
 gitalk:
   enable: true
   owner: latinos-bub
-  repo: latinos-bub.github.io
+  repo: blogtalk
   oauth:
-    clientId: 
-    clientSecret: 
+    clientId: 92874263f5ad04a37e49
+    clientSecret: 2620b8733b08c50120f7466030596c825c842cd6
   admin: latinos-bub
 
 # the Gitment config，default disabled
