@@ -230,7 +230,7 @@ myGallery:
 postCalendar: true
 
 # the Gitalk config，default disabled
-# Gitalk 评论模块的配置，默认为不激活
+# Gitalk 评论模块的配置，默认为不激活, 注意这个模块，需要在你自己的github仓库总配置一个专门保存评论的仓库，同时个人账号设置中设置 oAuth 等，具体google即可
 gitalk:
   enable: true
   owner: latinos-bub
