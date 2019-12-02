@@ -18,11 +18,17 @@
         "introduction": "老D博客，获取最新资讯哦",
         "avatar": "/medias/avatars/ids2.jpg"
     },{
-        "name": "拉丁小毛",
-        "url": "https://latinos-bub.github.io/blog-vuepress/",
+        "name": "拉丁小毛的gitlab博客",
+        "url": "https://latinos-bub.gitlab.io",
         "title": "访问主页",
-        "introduction": "blog-vuepress",
-        "avatar": "/medias/avatars/sunchangzhi.jpg"
+        "introduction": "hexo blog gitlab",
+        "avatar": "/medias/avatars/57.jpg"
+    },{
+        "name": "拉丁小毛的vuepress博客",
+        "url": "https://latinos-bub.github.io/blog-vuepress",
+        "title": "访问主页",
+        "introduction": "vuepress blog github",
+        "avatar": "/medias/avatars/51.jpg"
     },{
         "name": "青山不二",
         "url": "https://qingshanshuo.com/",
