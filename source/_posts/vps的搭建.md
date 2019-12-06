@@ -61,7 +61,7 @@ categories:
 
 ---
 
-本博客参考 [**Refrain**](http://www.aloneray.com/54.html#comments) 大佬的文章，在此深表感谢。
+本博客参考 [**Refrain**](http://www.aloneray.com/54.html#comments) 大佬的文章，如果觉得本文章不能够解决你的问题，还可以参考 [**Jaybo's Blog**](https://strivebo.com/2019/02/12/%E7%AF%871%EF%BC%9A%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%96%B9%E5%BC%8F%E6%80%BB%E7%BB%93/) 这篇文章哦，在此深表感谢。
 
 
 

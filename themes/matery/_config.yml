@@ -39,8 +39,8 @@ cover:
 dream:
   enable: false
   showTitle: true
-  title: 神秘嘉宾
-  text: 我搬到谁的隔壁，谁成了我的邻居。鸣谢生命有你参与，笑纳我的邀请。
+  title: 陌生人，你好啊
+  text: 与你相遇在这万千世界里，然失了又失，终归尘归尘，土归土，都化作了空
 
 # Whether to display the musics.
 # 是否在首页显示音乐.
@@ -65,7 +65,7 @@ video:
   showTitle: true
   title: 2018-06-22艺考生第一集
   url: /medias/videos/1.mp4 # 必填
-  pic:
+  pic: /medias/banner/48.jpg
   thumbnails:
   height: # 如：400
   autoplay: false # 是否自动播放
@@ -401,4 +401,4 @@ reprint:
 
 # 雪花特效
 snow:
-  enable: false
+  enable: true
