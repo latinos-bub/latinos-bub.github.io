@@ -8,7 +8,7 @@ date: 2019-12-13 04:04:46
 password: 
 summary:
 tags:
-	- mysql
+	- MySql
 categories:
 	- 编程
 ---

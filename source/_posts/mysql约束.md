@@ -7,8 +7,10 @@ mathjax: true
 date: 2019-11-26 16:54:23
 password:
 summary:
-tags: sql
-categories: sql
+tags: 
+	- MySql
+categories: 
+	- 编程
 ---
 
 # 约束的定义
