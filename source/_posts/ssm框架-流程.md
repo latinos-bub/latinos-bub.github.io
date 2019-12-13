@@ -8,7 +8,7 @@ date: 2019-11-03 18:11:15
 password:
 summary: springmvc+spring+mybatis框架
 tags:
-	- Java
+	- java
 categories:
 	- 编程
 ---

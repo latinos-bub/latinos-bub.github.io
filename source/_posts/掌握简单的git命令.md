@@ -8,7 +8,7 @@ date: 2019-12-13 03:25:27
 password:
 summary:
 tags:
-	- Git
+	- git
 categories:
 	- 编程
 ---
