@@ -8,7 +8,7 @@ date: 2019-11-04 23:48:45
 password:
 summary: 搭建vps
 tags:
-	- vps
+	- VPS
 categories:
 	- 工具
 ---
