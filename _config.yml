@@ -139,10 +139,11 @@ live2d:
   react:
     opacity: 0.7
 
+# 我已经在网站首页中添加了自动提交站点信息到google和baidu，所以这里不设置了
 baidu_url_submit:
   count: 100
   host: latinos-bub.github.io
-  token: 
+  token: tdX-c2L-3Dk
   path: baidu_urls.txt
 
 
