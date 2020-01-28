@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>css基本样式</title>
+      <link href="/2020/01/28/css-ji-ben-yang-shi/"/>
+      <url>/2020/01/28/css-ji-ben-yang-shi/</url>
+      
+        <content type="html"><![CDATA[<h1 id="div中文字居中"><a href="#div中文字居中" class="headerlink" title="div中文字居中"></a><font color="#FF8C00">div中文字居中</font></h1><p>如何让一个div中的文字水平和垂直居中？设置如下：<br>给定该div的长宽（或者二者只给出其一也可）</p><pre class="line-numbers language-html"><code class="language-html">.box{    height: 100px;    width: 30%;    text-align: center; // 水平居中,如果不行，设置margin: auto; 也可    line-height: 100px; // 因为其内是文字，所以只需设置行高与高度一样即可}<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><img src="1.webp">]]></content>
+      
+      
+      <categories>
+          
+          <category> 编程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> css </tag>
+            
+            <tag> html </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>nginx在centos7下的安装</title>
       <link href="/2020/01/09/nginx-zai-centos7-xia-de-an-zhuang/"/>
       <url>/2020/01/09/nginx-zai-centos7-xia-de-an-zhuang/</url>

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://latinos-bub.github.io/"/>
-  <updated>2020-01-09T13:48:20.042Z</updated>
+  <updated>2020-01-28T06:22:47.646Z</updated>
   <id>https://latinos-bub.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>css基本样式</title>
+    <link href="https://latinos-bub.github.io/2020/01/28/css-ji-ben-yang-shi/"/>
+    <id>https://latinos-bub.github.io/2020/01/28/css-ji-ben-yang-shi/</id>
+    <published>2020-01-28T06:15:28.000Z</published>
+    <updated>2020-01-28T06:22:47.646Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;div中文字居中&quot;&gt;&lt;a href=&quot;#div中文字居中&quot; class=&quot;headerlink&quot; title=&quot;div中文字居中&quot;&gt;&lt;/a&gt;&lt;font
+        
+      
+    
+    </summary>
+    
+      <category term="编程" scheme="https://latinos-bub.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="css" scheme="https://latinos-bub.github.io/tags/css/"/>
+    
+      <category term="html" scheme="https://latinos-bub.github.io/tags/html/"/>
+    
+  </entry>
   
   <entry>
     <title>nginx在centos7下的安装</title>
