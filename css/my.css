@@ -1,0 +1,13 @@
+/* Here is your custom css styles. */
+
+/* 在线客服聊天DaoVoice样式 */
+
+/* 添加 闲聊么 */
+#xianliaome_window{
+  position: fixed;
+    z-index: 10000;
+    width: 70px;
+    height: 70px;
+    left: 0px;
+    bottom: 0px;
+}

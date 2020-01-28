@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>latinos-bub blog</title>
+  
+  <subtitle>latinos-bub</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://latinos-bub.github.io/"/>
+  <updated>2020-01-09T13:48:20.042Z</updated>
+  <id>https://latinos-bub.github.io/</id>
+  
+  <author>
+    <name>拉丁小毛</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>nginx在centos7下的安装</title>
+    <link href="https://latinos-bub.github.io/2020/01/09/nginx-zai-centos7-xia-de-an-zhuang/"/>
+    <id>https://latinos-bub.github.io/2020/01/09/nginx-zai-centos7-xia-de-an-zhuang/</id>
+    <published>2020-01-09T13:08:51.000Z</published>
+    <updated>2020-01-09T13:48:20.042Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;nginx是什么&quot;&gt;&lt;a href=&quot;#nginx是什么&quot; class=&quot;headerlink&quot; title=&quot;nginx是什么&quot;&gt;&lt;/a&gt;&lt;font color=&quot;#FF8C00&quot;&gt;nginx是什么&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Nginx 是一个高性能的
+        
+      
+    
+    </summary>
+    
+      <category term="编程" scheme="https://latinos-bub.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="nginx" scheme="https://latinos-bub.github.io/tags/nginx/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>spring boot程序的部署及运行</title>
+    <link href="https://latinos-bub.github.io/2020/01/06/spring-boot-cheng-xu-de-bu-shu-ji-yun-xing/"/>
+    <id>https://latinos-bub.github.io/2020/01/06/spring-boot-cheng-xu-de-bu-shu-ji-yun-xing/</id>
+    <published>2020-01-05T19:40:04.000Z</published>
+    <updated>2020-01-07T11:43:15.454Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;将-spring-boot-应用程序打包成-jar-包&quot;&gt;&lt;a href=&quot;#将-spring-boot-应用程序打包成-jar-包&quot; class=&quot;headerlink&quot; title=&quot;将 spring boot 应用程序打包成 jar
+        
+      
+    
+    </summary>
+    
+      <category term="编程" scheme="https://latinos-bub.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="Java" scheme="https://latinos-bub.github.io/tags/Java/"/>
+    
+      <category term="Spring boot" scheme="https://latinos-bub.github.io/tags/Spring-boot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java 中 IO 操作总结</title>
+    <link href="https://latinos-bub.github.io/2020/01/06/java-zhong-io-cao-zuo-zong-jie/"/>
+    <id>https://latinos-bub.github.io/2020/01/06/java-zhong-io-cao-zuo-zong-jie/</id>
+    <published>2020-01-05T19:35:31.000Z</published>
+    <updated>2020-01-07T12:09:40.081Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;java-IO-操作分析&quot;&gt;&lt;a href=&quot;#java-IO-操作分析&quot; class=&quot;headerlink&quot; title=&quot;java IO 操作分析&quot;&gt;&lt;/a&gt;&lt;font color=&quot;#FF8C00&quot;&gt;java IO
+        
+      
+    
+    </summary>
+    
+      <category term="编程" scheme="https://latinos-bub.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="Java" scheme="https://latinos-bub.github.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>shell知识点</title>
+    <link href="https://latinos-bub.github.io/2020/01/05/shell-zhi-shi-dian/"/>
+    <id>https://latinos-bub.github.io/2020/01/05/shell-zhi-shi-dian/</id>
+    <published>2020-01-05T15:02:28.000Z</published>
+    <updated>2020-01-05T19:32:40.824Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;概念&quot;&gt;&lt;a href=&quot;#概念&quot; class=&quot;headerlink&quot; title=&quot;概念&quot;&gt;&lt;/a&gt;&lt;font
+        
+      
+    
+    </summary>
+    
+      <category term="编程" scheme="https://latinos-bub.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="shell" scheme="https://latinos-bub.github.io/tags/shell/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>国内真实刑事案件</title>
+    <link href="https://latinos-bub.github.io/2020/01/04/guo-nei-zhen-shi-xing-shi-an-jian/"/>
+    <id>https://latinos-bub.github.io/2020/01/04/guo-nei-zhen-shi-xing-shi-an-jian/</id>
+    <published>2020-01-03T17:05:34.000Z</published>
+    <updated>2020-01-04T00:54:40.491Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;1992年河南洛阳美女任雪事件&quot;&gt;&lt;a href=&quot;#1992年河南洛阳美女任雪事件&quot; class=&quot;headerlink&quot; title=&quot;1992年河南洛阳美女任雪事件&quot;&gt;&lt;/a&gt;&lt;font
+        
+      
+    
+    </summary>
+    
+      <category term="生活" scheme="https://latinos-bub.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="生活" scheme="https://latinos-bub.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="刑事案件" scheme="https://latinos-bub.github.io/tags/%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GitHub上传大文件</title>
+    <link href="https://latinos-bub.github.io/2019/12/30/github-shang-chuan-da-wen-jian/"/>
+    <id>https://latinos-bub.github.io/2019/12/30/github-shang-chuan-da-wen-jian/</id>
+    <published>2019-12-29T21:17:52.000Z</published>
+    <updated>2020-01-04T00:54:14.792Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;github上传文件限制&quot;&gt;&lt;a href=&quot;#github上传文件限制&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="视频" scheme="https://latinos-bub.github.io/categories/%E8%A7%86%E9%A2%91/"/>
+    
+    
+      <category term="GitHub" scheme="https://latinos-bub.github.io/tags/GitHub/"/>
+    
+      <category term="视频" scheme="https://latinos-bub.github.io/tags/%E8%A7%86%E9%A2%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>3D相册示例</title>
+    <link href="https://latinos-bub.github.io/2019/12/18/3d-xiang-ce-shi-li/"/>
+    <id>https://latinos-bub.github.io/2019/12/18/3d-xiang-ce-shi-li/</id>
+    <published>2019-12-18T11:23:00.000Z</published>
+    <updated>2020-01-04T07:21:22.454Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;示例代码&quot;&gt;&lt;a href=&quot;#示例代码&quot; class=&quot;headerlink&quot; title=&quot;示例代码&quot;&gt;&lt;/a&gt;示例代码&lt;/h1&gt;&lt;pre class=&quot;line-numbers language-html&quot;&gt;&lt;code
+        
+      
+    
+    </summary>
+    
+      <category term="相册" scheme="https://latinos-bub.github.io/categories/%E7%9B%B8%E5%86%8C/"/>
+    
+    
+      <category term="相册" scheme="https://latinos-bub.github.io/tags/%E7%9B%B8%E5%86%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>更好地使用google</title>
+    <link href="https://latinos-bub.github.io/2019/12/18/geng-hao-di-shi-yong-google/"/>
+    <id>https://latinos-bub.github.io/2019/12/18/geng-hao-di-shi-yong-google/</id>
+    <published>2019-12-18T11:19:44.000Z</published>
+    <updated>2020-01-04T07:22:27.287Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;精确搜索：双引号&quot;&gt;&lt;a href=&quot;#精确搜索：双引号&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="工具" scheme="https://latinos-bub.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="工具" scheme="https://latinos-bub.github.io/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>韩国高分电影推荐</title>
+    <link href="https://latinos-bub.github.io/2019/12/16/han-guo-gao-fen-dian-ying-tui-jian/"/>
+    <id>https://latinos-bub.github.io/2019/12/16/han-guo-gao-fen-dian-ying-tui-jian/</id>
+    <published>2019-12-15T16:46:54.000Z</published>
+    <updated>2020-01-03T01:26:24.908Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;说明&quot;&gt;&lt;a href=&quot;#说明&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="影视" scheme="https://latinos-bub.github.io/categories/%E5%BD%B1%E8%A7%86/"/>
+    
+    
+      <category term="韩剧" scheme="https://latinos-bub.github.io/tags/%E9%9F%A9%E5%89%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mysql触发器</title>
+    <link href="https://latinos-bub.github.io/2019/12/13/mysql-hong-fa-qi/"/>
+    <id>https://latinos-bub.github.io/2019/12/13/mysql-hong-fa-qi/</id>
+    <published>2019-12-12T20:04:46.000Z</published>
+    <updated>2019-12-16T10:07:24.862Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;mysql-触发器&quot;&gt;&lt;a href=&quot;#mysql-触发器&quot; class=&quot;headerlink&quot; title=&quot;mysql 触发器&quot;&gt;&lt;/a&gt;mysql 触发器&lt;/h1&gt;&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="编程" scheme="https://latinos-bub.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="mysql" scheme="https://latinos-bub.github.io/tags/mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mybatis 中 resultMap 的使用</title>
+    <link href="https://latinos-bub.github.io/2019/12/13/mybatis-zhong-resultmap-de-shi-yong/"/>
+    <id>https://latinos-bub.github.io/2019/12/13/mybatis-zhong-resultmap-de-shi-yong/</id>
+    <published>2019-12-12T19:57:27.000Z</published>
+    <updated>2019-12-16T10:07:24.843Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Mybatis-中-resultMap-的使用&quot;&gt;&lt;a href=&quot;#Mybatis-中-resultMap-的使用&quot; class=&quot;headerlink&quot; title=&quot;Mybatis 中 resultMap 的使用&quot;&gt;&lt;/a&gt;Mybatis 中
+        
+      
+    
+    </summary>
+    
+      <category term="编程" scheme="https://latinos-bub.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="Java" scheme="https://latinos-bub.github.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>掌握简单的git命令</title>
+    <link href="https://latinos-bub.github.io/2019/12/13/zhang-wo-jian-dan-de-git-ming-ling/"/>
+    <id>https://latinos-bub.github.io/2019/12/13/zhang-wo-jian-dan-de-git-ming-ling/</id>
+    <published>2019-12-12T19:25:27.000Z</published>
+    <updated>2020-01-04T07:22:49.028Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;编辑提交-editting-commits&quot;&gt;&lt;a href=&quot;#编辑提交-editting-commits&quot; class=&quot;headerlink&quot; title=&quot;编辑提交(editting commits)&quot;&gt;&lt;/a&gt;编辑提交(editting
+        
+      
+    
+    </summary>
+    
+      <category term="编程" scheme="https://latinos-bub.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="git" scheme="https://latinos-bub.github.io/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>&lt;&lt;鸡毛飞上天&gt;&gt;观后感</title>
+    <link href="https://latinos-bub.github.io/2019/12/09/ji-mao-fei-shang-tian-guan-hou-gan/"/>
+    <id>https://latinos-bub.github.io/2019/12/09/ji-mao-fei-shang-tian-guan-hou-gan/</id>
+    <published>2019-12-09T15:28:41.000Z</published>
+    <updated>2020-01-03T01:25:09.294Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;剧本介绍&quot;&gt;&lt;a href=&quot;#剧本介绍&quot; class=&quot;headerlink&quot; title=&quot;剧本介绍&quot;&gt;&lt;/a&gt;剧本介绍&lt;/h1&gt;&lt;p&gt;这部剧名叫&lt;strong&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://latinos-bub.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="影视" scheme="https://latinos-bub.github.io/tags/%E5%BD%B1%E8%A7%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mysql约束</title>
+    <link href="https://latinos-bub.github.io/2019/11/26/mysql-yue-shu/"/>
+    <id>https://latinos-bub.github.io/2019/11/26/mysql-yue-shu/</id>
+    <published>2019-11-26T08:54:23.000Z</published>
+    <updated>2019-12-16T10:07:24.861Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;约束的定义&quot;&gt;&lt;a href=&quot;#约束的定义&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="编程" scheme="https://latinos-bub.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="mysql" scheme="https://latinos-bub.github.io/tags/mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java中使用HSSFWorkbook生成excel</title>
+    <link href="https://latinos-bub.github.io/2019/11/12/java-zhong-shi-yong-hssfworkbook-sheng-cheng-excel/"/>
+    <id>https://latinos-bub.github.io/2019/11/12/java-zhong-shi-yong-hssfworkbook-sheng-cheng-excel/</id>
+    <published>2019-11-12T14:14:11.000Z</published>
+    <updated>2019-12-16T10:07:24.835Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;1.jpg&quot; alt&gt;&lt;/p&gt;
+&lt;h1 id=&quot;HSSFWorkbook-介绍&quot;&gt;&lt;a href=&quot;#HSSFWorkbook-介绍&quot; class=&quot;headerlink&quot; title=&quot;HSSFWorkbook
+        
+      
+    
+    </summary>
+    
+      <category term="编程" scheme="https://latinos-bub.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="Java" scheme="https://latinos-bub.github.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java爬取图片示例</title>
+    <link href="https://latinos-bub.github.io/2019/11/10/java-pa-qu-tu-pian-shi-li/"/>
+    <id>https://latinos-bub.github.io/2019/11/10/java-pa-qu-tu-pian-shi-li/</id>
+    <published>2019-11-10T10:25:32.000Z</published>
+    <updated>2019-12-16T10:07:24.851Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;爬虫是什么&quot;&gt;&lt;a href=&quot;#爬虫是什么&quot; class=&quot;headerlink&quot; title=&quot;爬虫是什么&quot;&gt;&lt;/a&gt;爬虫是什么&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;这里引用一下 wiki 中关于
+        
+      
+    
+    </summary>
+    
+      <category term="编程" scheme="https://latinos-bub.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="Java" scheme="https://latinos-bub.github.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vps的搭建</title>
+    <link href="https://latinos-bub.github.io/2019/11/04/vps-de-da-jian/"/>
+    <id>https://latinos-bub.github.io/2019/11/04/vps-de-da-jian/</id>
+    <published>2019-11-04T15:48:45.000Z</published>
+    <updated>2020-01-05T15:04:13.630Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;最近一直想自己搭建一款vps使用，但是苦于一直没有时间，直到今天得空，与大家一起分享下。&lt;/p&gt;
+&lt;h1 id=&quot;服务商的选择&quot;&gt;&lt;a href=&quot;#服务商的选择&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="工具" scheme="https://latinos-bub.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="VPS" scheme="https://latinos-bub.github.io/tags/VPS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ssm框架-流程</title>
+    <link href="https://latinos-bub.github.io/2019/11/03/ssm-kuang-jia-liu-cheng/"/>
+    <id>https://latinos-bub.github.io/2019/11/03/ssm-kuang-jia-liu-cheng/</id>
+    <published>2019-11-03T10:11:15.000Z</published>
+    <updated>2019-12-16T10:07:24.864Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;springmvc-的配置&quot;&gt;&lt;a href=&quot;#springmvc-的配置&quot; class=&quot;headerlink&quot; title=&quot;springmvc 的配置&quot;&gt;&lt;/a&gt;springmvc
+        
+      
+    
+    </summary>
+    
+      <category term="编程" scheme="https://latinos-bub.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="Java" scheme="https://latinos-bub.github.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>二零一九年快要过去了</title>
+    <link href="https://latinos-bub.github.io/2019/11/03/2019/"/>
+    <id>https://latinos-bub.github.io/2019/11/03/2019/</id>
+    <published>2019-11-03T01:39:03.000Z</published>
+    <updated>2020-01-04T07:21:15.847Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div align=&quot;middle&quot;&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://latinos-bub.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="https://latinos-bub.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
