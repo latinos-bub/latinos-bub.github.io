@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>ubuntu 安装 redis</title>
+      <link href="/2020/03/22/ubuntu-an-zhuang-redis/"/>
+      <url>/2020/03/22/ubuntu-an-zhuang-redis/</url>
+      
+        <content type="html"><![CDATA[<h1 id="redis是什么"><a href="#redis是什么" class="headerlink" title="redis是什么"></a><font color="#FF8C00">redis是什么</font></h1><p>Redis是常用基于内存的Key-Value数据库，比Memcache更先进，支持多种数据结构，高效，快速。用Redis可以很轻松解决高并发的数据访问问题</p><h1 id="环境"><a href="#环境" class="headerlink" title="环境"></a>环境</h1><p>Ubuntu18.04</p><h1 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h1><p><code>sudo apt update</code></p><h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><p>使用 apt 从官方 Ubuntu 存储库来安装 Redis：<br><code>sudo apt-get install redis-server</code></p><h1 id="设置密码"><a href="#设置密码" class="headerlink" title="设置密码"></a>设置密码</h1><ul><li>首先打开Redis配置文件redis.conf<br><code>sudo vi /etc/redis/redis.conf</code></li><li>找到# requirepass foobared这一行，将注释符号#去掉，将后面修改成自己的密码，例如，设置密码为123456<br><code>requirepass 123456</code></li></ul><h1 id="开启远程访问"><a href="#开启远程访问" class="headerlink" title="开启远程访问"></a>开启远程访问</h1><p>默认情况下，Redis服务器不允许远程访问，只允许本机访问，所以我们需要设置打开远程访问的功能。</p><ul><li>打开Redis服务器的配置文件redis.conf<br><code>sudo vi /etc/redis/redis.conf</code></li><li>使用注释符号#注释bind 127.0.0.1这行<pre><code>#注释bind#bind 127.0.0.1</code></pre></li></ul><h1 id="Redis服务控制"><a href="#Redis服务控制" class="headerlink" title="Redis服务控制"></a>Redis服务控制</h1><pre><code>sudo systemctl start redis    #启动sudo systemctl stop redis    #关闭sudo systemctl restart redis    #重启</code></pre><h1 id="连接测试"><a href="#连接测试" class="headerlink" title="连接测试"></a>连接测试</h1><p>重新打开一个终端，直接输入redis-cli通过默认客户端来测试连接，正常情况下返回ping的对应值PONG</p><pre><code>latinos@latinos-virtual-machine:~$ redis-cli127.0.0.1:6379&gt; pingPONG127.0.0.1:6379&gt;</code></pre><h1 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h1><p>修改配置文件之后需要重启Redis服务</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 编程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ubuntu </tag>
+            
+            <tag> redis </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>css基本样式</title>
       <link href="/2020/01/28/css-ji-ben-yang-shi/"/>
       <url>/2020/01/28/css-ji-ben-yang-shi/</url>

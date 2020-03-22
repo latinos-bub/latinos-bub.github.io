@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://latinos-bub.github.io/"/>
-  <updated>2020-01-28T06:22:47.646Z</updated>
+  <updated>2020-03-22T13:08:16.222Z</updated>
   <id>https://latinos-bub.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ubuntu 安装 redis</title>
+    <link href="https://latinos-bub.github.io/2020/03/22/ubuntu-an-zhuang-redis/"/>
+    <id>https://latinos-bub.github.io/2020/03/22/ubuntu-an-zhuang-redis/</id>
+    <published>2020-03-22T12:57:52.000Z</published>
+    <updated>2020-03-22T13:08:16.222Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;redis是什么&quot;&gt;&lt;a href=&quot;#redis是什么&quot; class=&quot;headerlink&quot; title=&quot;redis是什么&quot;&gt;&lt;/a&gt;&lt;font
+        
+      
+    
+    </summary>
+    
+      <category term="编程" scheme="https://latinos-bub.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="ubuntu" scheme="https://latinos-bub.github.io/tags/ubuntu/"/>
+    
+      <category term="redis" scheme="https://latinos-bub.github.io/tags/redis/"/>
+    
+  </entry>
   
   <entry>
     <title>css基本样式</title>
@@ -518,32 +546,6 @@
     
     
       <category term="Java" scheme="https://latinos-bub.github.io/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>二零一九年快要过去了</title>
-    <link href="https://latinos-bub.github.io/2019/11/03/2019/"/>
-    <id>https://latinos-bub.github.io/2019/11/03/2019/</id>
-    <published>2019-11-03T01:39:03.000Z</published>
-    <updated>2020-01-04T07:21:15.847Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;div align=&quot;middle&quot;&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="随笔" scheme="https://latinos-bub.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="随笔" scheme="https://latinos-bub.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
