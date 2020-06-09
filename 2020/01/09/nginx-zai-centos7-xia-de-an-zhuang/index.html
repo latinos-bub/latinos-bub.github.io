@@ -510,7 +510,7 @@
         <hr class="clearfix">
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <h1 id="nginx是什么"><a href="#nginx是什么" class="headerlink" title="nginx是什么"></a><font color="#FF8C00">nginx是什么</font></h1><p>Nginx 是一个高性能的 HTTP 和反向代理 web 服务器，同时也提供了 IMAP/POP3/SMTP 的服务<br>Nginx 特点是占有内存少，并发能力强<br>一般来说，如果我们在项目中引入了 Nginx ，我们的项目架构可能是这样：<br><img src="1.webp"><br>在这样的架构中 ， Nginx 所代表的角色叫做负载均衡服务器或者反向代理服务器，所有请求首先到达 Nginx 上，再由 Nginx 根据提前配置好的转发规则，将客户端发来的请求转发到某一个 Tomcat 上去<br>那么这里涉及到两个概念：</p>
+                <h1 id="nginx是什么"><a href="#nginx是什么" class="headerlink" title="nginx是什么"></a><font color="#FF8C00">nginx是什么</font></h1><p>Nginx 是一个高性能的 HTTP 和反向代理 web 服务器，同时也提供了 IMAP/POP3/SMTP 的服务<br>Nginx 特点是占有内存少，并发能力强<br>一般来说，如果我们在项目中引入了 Nginx ，我们的项目架构可能是这样：<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/nginx在centos7下的安装/1.webp"><br>在这样的架构中 ， Nginx 所代表的角色叫做负载均衡服务器或者反向代理服务器，所有请求首先到达 Nginx 上，再由 Nginx 根据提前配置好的转发规则，将客户端发来的请求转发到某一个 Tomcat 上去<br>那么这里涉及到两个概念：</p>
 <ul>
 <li>负载均衡服务器<br>就是进行请求转发，降低某一个服务器的压力。负载均衡策略很多，也有很多层，对于一些大型网站基本上从 DNS 就开始负载均衡，负载均衡有硬件和软件之分，各自代表分别是 F5 和 Nginx （目前 Nginx 已经被 F5 收购），早些年，也可以使用 Apache 来做负载均衡，但是效率不如 Nginx ，所以现在主流方案是 Nginx 。</li>
 <li>反向代理服务器<br>就是对于用户来说，用户只确定我请求的是某个位置的uri资源，但是这个资源是由谁来提供给我的，用户并不需要知道。就像我们日常打电话到110一样，你会有这样的疑问，全国都是打110，那么如果我身在北京打110会不会打到上海呢？哈哈，其实这就有点类似反向代理了，我们只需要知道我们打110，但是其真实的过程是网络默认在我们拨打的号码前加入了当地基站的前缀号码的缘故。</li>
@@ -523,22 +523,22 @@
 </ol>
 <h1 id="Nginx-安装"><a href="#Nginx-安装" class="headerlink" title="Nginx 安装"></a>Nginx 安装</h1><p>因为我们日常的服务器都是选用的centos7的，所以在这里我就只介绍centos下nginx的安装，我们采用默认安装（即不主动设置安装目录）</p>
 <ol>
-<li>下载nginx<br><code>wget http://nginx.org/download/nginx-1.17.0.tar.gz</code><img src="3.webp"></li>
-<li>解压<br><code>tar -zxvf nginx-1.17.0.tar.gz</code><img src="4.webp"></li>
-<li>然后进入nginx-1.17.0目录<br>在编译安装之前，我们还需要安装两个依赖<br><code>yum -y install pcre-devel</code><img src="5.webp">
+<li>下载nginx<br><code>wget http://nginx.org/download/nginx-1.17.0.tar.gz</code><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/nginx在centos7下的安装/3.webp"></li>
+<li>解压<br><code>tar -zxvf nginx-1.17.0.tar.gz</code><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/nginx在centos7下的安装/4.webp"></li>
+<li>然后进入nginx-1.17.0目录<br>在编译安装之前，我们还需要安装两个依赖<br><code>yum -y install pcre-devel</code><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/nginx在centos7下的安装/5.webp">
 和
 `yum -y install openssl openssl-devel`
-<img src="6.webp"></li>
-<li>编译安装<br>依次执行如下命令：<br><code>./configure</code>、<img src="7.webp">
+<img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/nginx在centos7下的安装/6.webp"></li>
+<li>编译安装<br>依次执行如下命令：<br><code>./configure</code>、<img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/nginx在centos7下的安装/7.webp">
 `make`、
-<img src="8.webp">
+<img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/nginx在centos7下的安装/8.webp">
 `make install`
 安装好之后，默认的安装位置是：`/usr/local/nginx/sbin/nginx`
-<img src="9.webp"></li>
-<li>启动nginx<img src="10.webp">
+<img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/nginx在centos7下的安装/9.webp"></li>
+<li>启动nginx<img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/nginx在centos7下的安装/10.webp">
 进入sbin目录，启动：`cd /usr/local/nginx/sbin`、`./nginx`即可启动了
 启动成功之后，我们访问本地的ip地址，即可看到如下界面：
-<img src="2.webp">
+<img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/nginx在centos7下的安装/2.webp">
 看到如上页面，表示 Nginx 已经安装成功了
 如果修改了 Nginx 配置，则可以通过如下命令重新加载 Nginx 配置文件：`./nginx -s reload`
 
@@ -1277,7 +1277,7 @@
 
             
             &nbsp;<i class="fa fa-area-chart"></i>&nbsp;站点总字数:&nbsp;
-            <span class="white-color">24.2k</span>
+            <span class="white-color">24.1k</span>
             
 
             <br>

@@ -542,7 +542,7 @@ d1=`date`
 # 定义变量的格式：变量名=`变量的值`
 # 当在当前脚本中需要引用变量时，需要加上$符号即可
 echo "the script end at $d1"<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-<p>然后将该文件命名为 demo.sh【通常是以sh作为后缀的，只是习惯而已，没有sh也可以执行】<br>然后这样运行：<br><img src="1.webp"></p>
+<p>然后将该文件命名为 demo.sh【通常是以sh作为后缀的，只是习惯而已，没有sh也可以执行】<br>然后这样运行：<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/1.webp"></p>
 <h1 id="逻辑判断"><a href="#逻辑判断" class="headerlink" title="逻辑判断"></a>逻辑判断</h1><h2 id="if-else-的逻辑判断"><a href="#if-else-的逻辑判断" class="headerlink" title="if-else 的逻辑判断"></a>if-else 的逻辑判断</h2><ul>
 <li>不带 else 的</li>
 </ul>
@@ -557,7 +557,7 @@ then
   echo "抱歉，你没有通过考试."
 fi
 <span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-<p>执行结果如下：<br><img src="2.webp"></p>
+<p>执行结果如下：<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/2.webp"></p>
 <ul>
 <li>带有 else 的</li>
 </ul>
@@ -573,7 +573,7 @@ then
 else
   echo "恭喜你，顺利通过考试."
 fi<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-<p>执行结果如下：<br><img src="3.webp"></p>
+<p>执行结果如下：<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/3.webp"></p>
 <ul>
 <li>带有 elif 的</li>
 </ul>
@@ -595,7 +595,7 @@ then
 else
   echo "抱歉，你的输入有误."
 fi<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-<p>执行结果如下：<br><img src="4.webp"></p>
+<p>执行结果如下：<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/4.webp"></p>
 <h2 id="case-逻辑判断"><a href="#case-逻辑判断" class="headerlink" title="case 逻辑判断"></a>case 逻辑判断</h2><pre class="line-numbers language-shell"><code class="language-shell">#! /bin/bash
 
 read -p "请输入一个整数: " n
@@ -610,13 +610,13 @@ echo "您输入的数字是偶数."
 echo "您输入的数字是奇数."
 ;;
 esac<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-<p>执行结果如下：<br><img src="5.webp"></p>
+<p>执行结果如下：<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/5.webp"></p>
 <h1 id="循环"><a href="#循环" class="headerlink" title="循环"></a>循环</h1><h2 id="for-循环"><a href="#for-循环" class="headerlink" title="for 循环"></a>for 循环</h2><pre class="line-numbers language-shell"><code class="language-shell">#!/bin/bash
 
 for i in `seq 1 5`; do # seq: 用于产生从某个数到另外一个数之间的所有整数
   echo $i
 done<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-<p>执行结果如下：<br><img src="6.webp"></p>
+<p>执行结果如下：<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/6.webp"></p>
 <h2 id="while-循环"><a href="#while-循环" class="headerlink" title="while 循环"></a>while 循环</h2><pre class="line-numbers language-shell"><code class="language-shell">#! /bin/bash
 
 a=10 # 注意：a 后面不要有空格
@@ -625,7 +625,7 @@ while [ $a -ge 1 ]; do # 注意：[] 括号前后一定要有空格
   echo "$a"
   a=`expr $a - 1 ` # 注意：凡是使用到加减乘除等运算时，都需要使用 expr 表明此处需要运算符号
 done<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-<p>执行结果如下：<br><img src="7.webp"></p>
+<p>执行结果如下：<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/7.webp"></p>
 <h1 id="函数"><a href="#函数" class="headerlink" title="函数"></a>函数</h1><pre class="line-numbers language-shell"><code class="language-shell">#! /bin/bash
 
 echo "请输入两个整数，并使用空格隔开: "
@@ -637,7 +637,7 @@ sum(){
 }
 
 sum $num1 $num2 # 注意：这里必须要调用sum函数，并且传入用户输入的两个参数<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-<p>执行结果如下：<br><img src="8.webp"></p>
+<p>执行结果如下：<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/8.webp"></p>
 <h1 id="echo-的好玩点"><a href="#echo-的好玩点" class="headerlink" title="echo 的好玩点"></a>echo 的好玩点</h1><pre class="line-numbers language-shell"><code class="language-shell">#! /bin/bash        
 
 echo "Hello World 1"
@@ -648,7 +648,7 @@ echo -e "\e[0;33;5mhello\e[0m world" #带颜色+闪烁<span aria-hidden="true" c
 <blockquote>
 <p>格式为 <code>\e[背景色;前景色;高亮格式m</code></p>
 </blockquote>
-<p>执行结果如下：<br><img src="9.webp"></p>
+<p>执行结果如下：<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/9.webp"></p>
 <h1 id="字符串操作"><a href="#字符串操作" class="headerlink" title="字符串操作"></a>字符串操作</h1><h2 id="判断字符串是否为空"><a href="#判断字符串是否为空" class="headerlink" title="判断字符串是否为空"></a>判断字符串是否为空</h2><pre class="line-numbers language-shell"><code class="language-shell">#! /bin/bash
 
 s=""
@@ -656,16 +656,16 @@ if [ -z ${s} ]  #注意：这里的[  ]前后必须有空格隔开，这个格�
 then
 echo "字符串为空"
 fi<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-<p>执行结果如下：<br><img src="10.webp"></p>
+<p>执行结果如下：<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/10.webp"></p>
 <blockquote>
 <p>上述命令中使用了 <code>-z</code> 运算符来判断字符串是否为空（在下面的字符串图中可以查找到），在 linux 中还有许多其它的运算符，如下图所示：</p>
 </blockquote>
 <ul>
 <li><p>关于文件测试的运算符</p>
-<img src="11.webp">
+<img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/11.webp">
 </li>
 <li><p>关于字符串比较的运算符</p>
-<img src="12.webp">
+<img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/12.webp">
 
 </li>
 </ul>
@@ -673,12 +673,12 @@ fi<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><
 
 str="abcdef"
 echo "$str 字符串的长度是：${#str}"<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre>
-<p>执行结果如下：<br><img src="13.webp"></p>
+<p>执行结果如下：<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/13.webp"></p>
 <h3 id="使用-awk-的-length-方法"><a href="#使用-awk-的-length-方法" class="headerlink" title="使用 awk 的 length 方法"></a>使用 awk 的 length 方法</h3><pre class="line-numbers language-shell"><code class="language-shell">#! /bin/bash
 
 str="abcdef"
 echo ${str} | awk '{print length($0)}' # 这里的 $0 表示是第一个输入，此处即指 ${str}<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre>
-<p>执行结果如下：<br><img src="15.webp"><br><img src="14.webp"></p>
+<p>执行结果如下：<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/15.webp"><br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/14.webp"></p>
 <blockquote>
 <p>备注：最好用 <code>{}</code> 来放置变量；也可以用 <code>length($0)</code> 来统计文件中每行的长度</p>
 </blockquote>
@@ -686,7 +686,7 @@ echo ${str} | awk '{print length($0)}' # 这里的 $0 表示是第一个输入�
 
 str="ABCDEF"
 echo ${str} | wc -L<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre>
-<p>执行结果如下：<br><img src="16.webp"></p>
+<p>执行结果如下：<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/16.webp"></p>
 <blockquote>
 <p>备注：<code>-L</code> 参数，对多行文件来说，表示打印最长行的长度！比如：<code>cat /etc/passwd | wc -L</code> 表示/etc/passwd文件最长行的长度；<br>对单行字符串而言，表示当前字符串的长度</p>
 </blockquote>
@@ -694,38 +694,38 @@ echo ${str} | wc -L<span aria-hidden="true" class="line-numbers-rows"><span></sp
 
 str="ABCDEF"
 expr length ${str}<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre>
-<p>执行结果如下：<br><img src="17.webp"></p>
+<p>执行结果如下：<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/17.webp"></p>
 <h3 id="使用-expr-的-技巧"><a href="#使用-expr-的-技巧" class="headerlink" title="使用 expr 的 .* 技巧"></a>使用 expr 的 .* 技巧</h3><pre class="line-numbers language-shell"><code class="language-shell">#!/bin/bash
 
 str="abef"
 expr $str : ".*"<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre>
-<p>执行结果如下：<br><img src="18.webp"></p>
+<p>执行结果如下：<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/18.webp"></p>
 <blockquote>
 <p>备注：<code>.*</code> 代表任意字符，即用任意字符来匹配字符串，结果是几就代表字符串的长度是几</p>
 </blockquote>
 <blockquote>
 <p>关于获取字符串长度的方法很多，这里只是举例了几个，如果没有您需要的还请翻阅其它资料</p>
 </blockquote>
-<h2 id="替换目标字符串"><a href="#替换目标字符串" class="headerlink" title="替换目标字符串"></a>替换目标字符串</h2><img src="22.webp">
-<img src="23.webp">
+<h2 id="替换目标字符串"><a href="#替换目标字符串" class="headerlink" title="替换目标字符串"></a>替换目标字符串</h2><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/22.webp">
+<img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/23.webp">
 
-<h2 id="截取子字符串"><a href="#截取子字符串" class="headerlink" title="截取子字符串"></a>截取子字符串</h2><p>操作的API<br><img src="24.webp"></p>
-<p>示例如下：<br><img src="25.webp"></p>
-<h1 id="转义字符处理"><a href="#转义字符处理" class="headerlink" title="转义字符处理"></a>转义字符处理</h1><h2 id="关于整数的处理"><a href="#关于整数的处理" class="headerlink" title="关于整数的处理"></a>关于整数的处理</h2><img src="19.webp">
+<h2 id="截取子字符串"><a href="#截取子字符串" class="headerlink" title="截取子字符串"></a>截取子字符串</h2><p>操作的API<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/24.webp"></p>
+<p>示例如下：<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/25.webp"></p>
+<h1 id="转义字符处理"><a href="#转义字符处理" class="headerlink" title="转义字符处理"></a>转义字符处理</h1><h2 id="关于整数的处理"><a href="#关于整数的处理" class="headerlink" title="关于整数的处理"></a>关于整数的处理</h2><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/19.webp">
 
-<h2 id="关于逻辑处理"><a href="#关于逻辑处理" class="headerlink" title="关于逻辑处理"></a>关于逻辑处理</h2><img src="20.webp">
+<h2 id="关于逻辑处理"><a href="#关于逻辑处理" class="headerlink" title="关于逻辑处理"></a>关于逻辑处理</h2><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/20.webp">
 
 <blockquote>
 <p>小技巧：<code>&amp;&amp;</code>、<code>||</code> 还可以用来拼接命令，达到按前一个命令成功与否来决定是否执行后一个命令的效果</p>
 </blockquote>
-<p>示例如下：<br><img src="21.webp"></p>
+<p>示例如下：<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/21.webp"></p>
 <h1 id="文件名的获取"><a href="#文件名的获取" class="headerlink" title="文件名的获取"></a>文件名的获取</h1><pre class="line-numbers language-shell"><code class="language-shell">#!/bin/bash
 
 s="/root/test/dir/subdir/abc.txt"
 echo ${s##*/} # abc.txt
 echo ${s%/*} # /root/test/dir/subdir
 echo ${s##*.} # txt<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-<p>执行结果如下：<br><img src="26.webp"></p>
+<p>执行结果如下：<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/26.webp"></p>
 <blockquote>
 <p>小技巧：</p>
 <ul>
@@ -734,25 +734,25 @@ echo ${s##*.} # txt<span aria-hidden="true" class="line-numbers-rows"><span></sp
 <li>3、获取后缀名：<code>${path##*.}</code></li>
 </ul>
 </blockquote>
-<h1 id="重定向"><a href="#重定向" class="headerlink" title="重定向"></a>重定向</h1><p>标准输入流、标准输出流、标准错误流<br><img src="27.webp"><br>重定向一览表<br><img src="28.webp"></p>
+<h1 id="重定向"><a href="#重定向" class="headerlink" title="重定向"></a>重定向</h1><p>标准输入流、标准输出流、标准错误流<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/27.webp"><br>重定向一览表<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/28.webp"></p>
 <h2 id="把程序打印的内容输出到文件"><a href="#把程序打印的内容输出到文件" class="headerlink" title="把程序打印的内容输出到文件"></a>把程序打印的内容输出到文件</h2><pre class="line-numbers language-shell"><code class="language-shell">#!/bin/bash
 
 #以下两种方式都会将 `Hello World`写入到hello.txt中（若不存在则创建）
 echo "Hello World" > hello.txt #hello.txt原有的内容将被覆盖
 echo "你好哦" >> hello.txt #hello.txt原有内容后追加'Hello World'<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-<p>执行结果如下：<br><img src="29.webp"><br><img src="30.webp"></p>
+<p>执行结果如下：<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/29.webp"><br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/30.webp"></p>
 <h2 id="重定向标准错误流-stderr"><a href="#重定向标准错误流-stderr" class="headerlink" title="重定向标准错误流(stderr)"></a>重定向标准错误流(stderr)</h2><p>把程序的错误信息输出到文件，例如文件路径中不存在+++这个文件：</p>
 <pre class="line-numbers language-shell"><code class="language-shell">#!/bin/bash
 
 #以下两种方式都会将输出的错误信息输出到 'err.txt'中（若不存在则创建）
 ls +++ 2> err.txt
 ls +++ 2>> err.txt #err.txt原有内容后追加内容<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-<p>执行结果如下：<br><img src="31.webp"><br><img src="32.webp"><br>可以看到已经将你操作 <code>ls +++</code> 的错误成功地输出到 <code>err.txt</code> 中了</p>
+<p>执行结果如下：<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/31.webp"><br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/32.webp"><br>可以看到已经将你操作 <code>ls +++</code> 的错误成功地输出到 <code>err.txt</code> 中了</p>
 <h1 id="查看当前目录大小"><a href="#查看当前目录大小" class="headerlink" title="查看当前目录大小"></a>查看当前目录大小</h1><pre class="line-numbers language-shell"><code class="language-shell">#! /bin/bash
 
 cap=`du -h --max-depth=1 ./`
 echo $cap<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre>
-<p>执行结果如下：<br><img src="33.webp"></p>
+<p>执行结果如下：<br><img src="https://cdn.jsdelivr.net/gh/latin-xiao-mao/img/blog-content/shell知识点/33.webp"></p>
 
             </div>
             <hr />
@@ -1492,7 +1492,7 @@ import java.io.*;
 
             
             &nbsp;<i class="fa fa-area-chart"></i>&nbsp;站点总字数:&nbsp;
-            <span class="white-color">24.2k</span>
+            <span class="white-color">24.1k</span>
             
 
             <br>
