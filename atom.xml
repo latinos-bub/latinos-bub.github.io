@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://latinos-bub.github.io/"/>
-  <updated>2020-06-09T03:54:55.890Z</updated>
+  <updated>2020-06-10T07:30:58.581Z</updated>
   <id>https://latinos-bub.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>520视频</title>
+    <link href="https://latinos-bub.github.io/2020/05/20/520-shi-pin/"/>
+    <id>https://latinos-bub.github.io/2020/05/20/520-shi-pin/</id>
+    <published>2020-05-20T13:28:38.000Z</published>
+    <updated>2020-06-10T07:30:58.581Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="视频" scheme="https://latinos-bub.github.io/categories/%E8%A7%86%E9%A2%91/"/>
+    
+    
+      <category term="你懂的" scheme="https://latinos-bub.github.io/tags/%E4%BD%A0%E6%87%82%E7%9A%84/"/>
+    
+  </entry>
   
   <entry>
     <title>ubuntu 安装 redis</title>
@@ -527,32 +553,6 @@
     
     
       <category term="VPS" scheme="https://latinos-bub.github.io/tags/VPS/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>ssm框架-流程</title>
-    <link href="https://latinos-bub.github.io/2019/11/03/ssm-kuang-jia-liu-cheng/"/>
-    <id>https://latinos-bub.github.io/2019/11/03/ssm-kuang-jia-liu-cheng/</id>
-    <published>2019-11-03T10:11:15.000Z</published>
-    <updated>2020-06-09T03:54:46.971Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;springmvc-的配置&quot;&gt;&lt;a href=&quot;#springmvc-的配置&quot; class=&quot;headerlink&quot; title=&quot;springmvc 的配置&quot;&gt;&lt;/a&gt;springmvc
-        
-      
-    
-    </summary>
-    
-      <category term="编程" scheme="https://latinos-bub.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
-    
-    
-      <category term="Java" scheme="https://latinos-bub.github.io/tags/Java/"/>
     
   </entry>
   
